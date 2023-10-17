@@ -1,0 +1,14 @@
+D:\cstest\PlaceGame\PlaceGame\bin\Debug\net7.0\PlaceGame.exe
+D:\cstest\PlaceGame\PlaceGame\bin\Debug\net7.0\PlaceGame.deps.json
+D:\cstest\PlaceGame\PlaceGame\bin\Debug\net7.0\PlaceGame.runtimeconfig.json
+D:\cstest\PlaceGame\PlaceGame\bin\Debug\net7.0\PlaceGame.dll
+D:\cstest\PlaceGame\PlaceGame\bin\Debug\net7.0\PlaceGame.pdb
+D:\cstest\PlaceGame\PlaceGame\obj\Debug\net7.0\PlaceGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\cstest\PlaceGame\PlaceGame\obj\Debug\net7.0\PlaceGame.AssemblyInfoInputs.cache
+D:\cstest\PlaceGame\PlaceGame\obj\Debug\net7.0\PlaceGame.AssemblyInfo.cs
+D:\cstest\PlaceGame\PlaceGame\obj\Debug\net7.0\PlaceGame.csproj.CoreCompileInputs.cache
+D:\cstest\PlaceGame\PlaceGame\obj\Debug\net7.0\PlaceGame.dll
+D:\cstest\PlaceGame\PlaceGame\obj\Debug\net7.0\refint\PlaceGame.dll
+D:\cstest\PlaceGame\PlaceGame\obj\Debug\net7.0\PlaceGame.pdb
+D:\cstest\PlaceGame\PlaceGame\obj\Debug\net7.0\PlaceGame.genruntimeconfig.cache
+D:\cstest\PlaceGame\PlaceGame\obj\Debug\net7.0\ref\PlaceGame.dll
